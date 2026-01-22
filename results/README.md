@@ -1,0 +1,1 @@
+Resultados experimentais (dados agregados).
